@@ -1,0 +1,36 @@
+Advancing Architectural Communications - Michael Hoehn 
+========================
+Rhino_001_Rapid Modeling - Step by Step
+========================
+v.0.0.1
+
+Notes
+-----
+
+  *NOTE* The goal of this exercise is to help you become familiar with the #Rhinoceros User Interface#
+
+  Instructions for this exercise: 
+  1. Introduction to Rhino
+  	a. Viewports - what are they? 
+  	b. Buttons for commands
+  	c. Using the Command Line Interface (CLI)
+  	d. Constructing your views 
+  	e. Creating geometry
+  	f. Staying organized through using layers
+  2. Commands 
+  	a. Primitives
+  		i. Line / Polyline / Curve / Point
+  		ii. Shapes - Rect / Polygon / Circle
+  		iii. Solids - Box / Sphere / Cone
+	b. Basic Geometric operations 
+		i. Split
+		ii. Trim
+		iii. Boolean operations 
+		iv. Move
+		v. Rotate / Rotate3D
+		vi. Extrude
+  3. Creating your first 3D models!
+  	a. 15 minutes to play around
+  	b. Timed exercise
+  		i. 5 minutes x 3 
+  4. ViewCaptureToFile +  Parameters 
